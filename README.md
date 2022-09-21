@@ -1,4 +1,4 @@
 # RocketNews
 RocketNews front-end page 
 
-<img src="https://drive.google.com/file/d/1HPcCuDMyHyXA1bjbeU96p_rV5n9Tm3Z-/view?usp=sharing" alt="Image Preview RocketNews"/>
+![RocketNews_Preview](https://user-images.githubusercontent.com/68403670/191401976-cd496c29-0e91-436d-9d68-b32c0b3f083b.png)
